@@ -12,20 +12,17 @@
 
 ### Connect with me:
 
-[
-
-
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
+![java](https://user-images.githubusercontent.com/81033586/149385465-871e2d90-899d-43ee-9931-8f15f97b96a6.png)
 
+![mysql](https://user-images.githubusercontent.com/81033586/149385469-32107531-a0a9-486e-9081-6988441d8c0f.png)
+![typescript](https://user-images.githubusercontent.com/81033586/149385473-e9eef5a9-b884-478e-9e99-89f98713f2a6.png)
+![react](https://user-images.githubusercontent.com/81033586/149385480-037a4053-097a-4fbb-ab74-73c27c2eb78d.png)
+![c](https://user-images.githubusercontent.com/81033586/149385536-d2fa6f4d-e408-4e3d-9dd1-b3fa9e615645.png)
 
 <br />
 <br />
