@@ -7,12 +7,13 @@
 ### 👨‍🚀 About Me
 
 - 🔭 I’m currently working on Flutter, Django & React
-- 🌱 I’m currently learning AI
-- 🤔 I’m looking for help with AI
+- 🌱 I’m currently learning Nodejs
+- 🤔 I’m looking for help with Nodejs projects
 - 💬 Ask me about Python
-- 📫 How to reach me: [Facebook](https://fb.com/mahmudulk2000/)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Drama Lover
+- 📫 How to reach me: <a  href="https://t.me/miloy23"><img  src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+&nbsp;
+</div>
+- ⚡ Fun fact: Movies 
   <br>
 
 <p align="center">
