@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Nodejs
 - 🤔 I’m looking for help with Nodejs projects
 - 💬 Ask me about Python
-- 📫 How to reach me: <a  href="https://t.me/miloy23"><img  src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+- 📫 How to reach me: <a  href="https://t.me/miloy23">Telegram</a>
 &nbsp;
 </div>
 - ⚡ Fun fact: Movies 
