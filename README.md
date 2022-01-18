@@ -1,5 +1,3 @@
-<div style="background-color: black">
-<div align="center" style="background:red"><img width="25%" height="auto" src="https://user-images.githubusercontent.com/81033586/149674492-51931e60-9c8f-4d08-89e3-b368957ffd76.jpeg"/></div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm S.M.Miloy</h1>
 <h3 align="center">I'm a passionate Full Stack Web & Flutter App Developer from Bangladesh.</h3>
@@ -52,7 +50,7 @@
 ### 📈 GitHub Stats
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=smmiloy23&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=000000" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahbd&layout=compact&theme=dark&hide_border=true&langs_count=6&&bg_color=000000" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smmiloy23&layout=compact&theme=dark&hide_border=true&langs_count=6&&bg_color=000000" />
 <img src="https://activity-graph.herokuapp.com/graph?username=smmiloy23&bg_color=000000&color=FFFFFF&line=00FF00&point=FFFFFF&hide_border=true" />
 </p>
 
