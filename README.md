@@ -47,12 +47,7 @@
 </div>
 
 
-### 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=smmiloy23&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=000000" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smmiloy23&layout=compact&theme=dark&hide_border=true&langs_count=6&&bg_color=000000" />
-<img src="https://activity-graph.herokuapp.com/graph?username=smmiloy23&bg_color=000000&color=FFFFFF&line=00FF00&point=FFFFFF&hide_border=true" />
-</p>
+
 
   ## 🌎 Let's connect
 
