@@ -1,18 +1,8 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm S.M.Miloy</h1>
-<h3 align="center">I'm a passionate Full Stack Web & Flutter App Developer from Bangladesh.</h3>
+<h3 align="center">I'm a passionate Full Stack Web & Competitive Programer from Bangladesh.</h3>
 
-### 👨‍🚀 About Me
 
-- 🔭 I’m currently working on Flutter, Django & React
-- 🌱 I’m currently learning Nodejs
-- 🤔 I’m looking for help with Nodejs projects
-- 💬 Ask me about Python
-- 📫 How to reach me: <a  href="https://t.me/miloy23">Telegram</a>
-&nbsp;
-</div>
-- ⚡ Fun fact: Movies 
-  <br>
 
 <p align="center">
 <a href="https://github.com/smmiloy23">
@@ -20,7 +10,7 @@
 </a>
 </p>
 
-## 💪 Experienced with:
+
 <div>
     <img src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white /> 
     <img src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white /> 
@@ -35,11 +25,6 @@
     <img src=https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=c&logoColor=white />
     <img src=https://img.shields.io/badge/Django-00599C?style=for-the-badge&logo=django&logoColor=white />
     <img src=https://img.shields.io/badge/Extension-430098?style=for-the-badge&logo=safari&logoColor=white />
-</div>
-<br />
-
-## 👩‍🎓 Learning
-<div>
     <img src=https://img.shields.io/badge/OpenCV-430098?style=for-the-badge&logo=opencv&logoColor=red />
     <img src=https://img.shields.io/badge/Tensorflow-F05032?style=for-the-badge&logo=tensorflow&logoColor=white />
     <img src=https://img.shields.io/badge/Dart-00FFFF?style=for-the-badge&logo=dart&logoColor=blue />
@@ -47,9 +32,9 @@
 </div>
 
 
+<br/>
 
-
-  ## 🌎 Let's connect
+  ## Let's connect
 
 <a  href="https://www.linkedin.com/in/s-m-miloy-rahman-8a2b0b209//"><img  alt="LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
