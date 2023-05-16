@@ -4,11 +4,6 @@
 
 
 
-<p align="center">
-<a href="https://github.com/miloy23">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smmiloy23&theme=dark&hide_border=true&stroke=0000&background=000000" />
-</a>
-</p>
 
 
 <div>
