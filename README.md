@@ -5,7 +5,7 @@
 <div align="center">
 
 [![miloy23's Github Stats](https://github-readme-stats.vercel.app/api?username=miloy23&hide=contribs,prs)](https://github.com/miloy23)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/miloy23)
 </div>
 **Note:** Top languages are only a metric of the languages my public code consists of and don't reflect my experience or skill level.
 
