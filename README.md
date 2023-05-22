@@ -1,16 +1,14 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm S.M.Miloy</h1>
-<h3 align="center">I'm a passionate Full Stack Web & Competitive Programer from Bangladesh.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm S.M. Miloy</h1>
+<h3 align="center">I'm a passionate Full Stack Web & Competitive Programmer from Bangladesh.</h3>
 
 ## ⭐ My Github Stats
+<div align="center">
 
-  <br/>
-    <a href="https://github.com/miloy23"><img alt="miloy23's Github Stats" src="https://github-readme-stats.vercel.app/api?username=miloy23&hide=contribs,prs" /></a>
+[![miloy23's Github Stats](https://github-readme-stats.vercel.app/api?username=miloy23&hide=contribs,prs)](https://github.com/miloy23)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+**Note:** Top languages are only a metric of the languages my public code consists of and don't reflect my experience or skill level.
 
-
-  <a href="https://github.com/miloy23"><img alt="miloy23's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miloy23&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br/>
 
 ## Languages
 
